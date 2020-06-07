@@ -1,0 +1,149 @@
+		body{
+			background:#DDDDDD;
+			margin:0 auto;
+		}
+		a{
+			color:#77DDFF;
+		}
+		#p1{
+			 text-indent: 5.5cm;
+			 color:white;
+		}
+		#p2{
+			text-indent:20cm;
+		}
+		#h11{
+			text-align:center;
+			color:white;
+			font-family:"微软雅黑";
+		}
+		#p3{
+			text-align:center;
+			color:white;
+		}
+		#p4{
+			color:white;
+		}
+		#a1{
+			color:#55AA00;
+			text-decoration:none
+		}
+		#p5{
+			color:white;
+		}
+		#p6{
+			color:white;
+		}
+		#p7{
+			color:white;
+		}
+		#a2{
+			font-size:20px;
+			color:#888888;
+			text-decoration:none
+		}
+		#a3{
+			color:#77DDFF;
+			text-decoration:none
+		}
+		#a4{
+			font-size:20px;
+			color:#888888;
+			text-decoration:none
+		}
+		#a5{
+			color:#77DDFF;
+			text-decoration:none;
+		}
+		#p8{
+			text-indent: 5cm; 
+			color:white;
+		}
+		#p9{
+			text-indent: 5cm; 
+			color:white;
+		}
+		#p10{
+			color:#888888;
+		}
+		#a6{
+			color:#77DDFF;
+			text-decoration:none;
+		}
+		a{
+			text-decoration:none;
+		}
+		#boxtop{
+			height:350px;
+			background-image:url(after.png);
+		}
+		#boxtopleft{
+			margin: 2px 50px 0px 200px;
+			width: 200px;
+			color:white;
+			float:left;
+		}
+		#boxtopright{
+			margin: 2px 200px 0px 20px;
+			width: 100px;
+			float:right;
+		}
+		#boxleft{
+			margin:2px 1px 0px 150px;
+			width:895px;
+			float:left;
+		}
+		#boxright{
+			margin:2px 150px 0px 1px;
+			width:285px;
+			height:1200px;
+			float:right;
+		}
+		#boxleft1{
+			width:895px;
+			height:50px;
+			padding:40px 0px 0px 0px;
+			background:#DDDDDD;
+		}
+		#boxleft2{
+			width:895px;
+			height:1300px;
+			background:#FFFFFF;
+			border-radius:3px;
+		}
+		#boxleft21{
+			width:855px;
+			height:300px;
+			padding:20px 20px 20px 20px;
+		}
+		.boxleftblack{
+			width:875px;
+			height:30px;
+			padding:3px 0px 20px 20px;
+			background:#2d2d2d;
+		}
+		.boxleftwhite{
+			width:855px;
+			height:150px;
+			padding:20px 20px 20px 20px;
+		}
+		.boxrightwhitegrey{
+			width:285px;
+			height:80px;
+			padding:5px 0px 5px 10px;
+		}
+		.boxrightgrey{
+			width:285px;
+			height:40px;
+			padding:20px 5px 20px 5px;
+			border-radius:3px;
+			background:#C0C0C0;
+		}
+		#boxbottom{
+			height:120px;
+			background:#262a30;
+			margin:1393px 0px 0px 0px;
+			podding:75px 100px 75px 2000px;
+			font-size:10px;
+			color:white;
+		}
